@@ -1,6 +1,6 @@
 
 # Inspiration 💡
-Developing countries across the globe had already been facing **shortage of resources and adequately skilled healthcare workers** before pandemics began. COVID-19 pandemics exacerbated the situation exponentially for both healthcare seekers and givers. Because we believe the power modern-day technologies have to help people to live a decent life, we developed QuikServe. It is an application, empowered by AI, that helps restaurant workers (managers, waiters)  to deliver the best and quickest service to the clients.**COVID-19 pandemics exacerbated the situation exponentially for both healthcare seekers and givers.**
+Developing countries across the globe had already been facing **shortage of resources and adequately skilled healthcare workers** before pandemics began. COVID-19 pandemics exacerbated the situation exponentially for both healthcare seekers and givers. Because we believe the power modern-day technologies have to help people to live a decent life, we developed QuikServe. It is an application, empowered by AI, that helps restaurant workers (managers, waiters)  to deliver the best and quickest service to the clients.
 
 
 # What it does 🤔
@@ -34,7 +34,6 @@ We were heavily inspired by the revised version of **Double Diamond** design pro
 
 This time went for the minimalist **Material UI** design. We utilized design tools like Figma,  Photoshop & Illustrator to prototype our designs before doing any coding. Through this, we are able to get iterative feedback so that we spend less time rewriting code.
 
-![Brand-identity](https://ipfs.infura.io/ipfs/QmdVkpm3EMuHXs78R9SmJtsLr8oyBZZ56fRdgaM4wLUPyg)
 
 ---
 
